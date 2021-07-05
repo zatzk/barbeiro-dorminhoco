@@ -1,9 +1,3 @@
-#Discente: Jean luiz
-#Matricula: 2018216013
-#Email: juniorjean7@gmail.com
-
-
-
 from threading import Thread, Lock, Event
 import time, random
 
